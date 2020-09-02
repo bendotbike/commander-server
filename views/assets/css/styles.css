@@ -1,0 +1,19 @@
+body {
+    margin: 10px;
+    line-height: 1.4;
+    font-family: sans-serif;
+}
+
+a {
+    color: #467e91;
+    padding: 3px;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+a:hover {
+    color: white;
+    background-color: #467e91;
+}   
+
+.command-dialog { display: none; }
